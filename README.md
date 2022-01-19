@@ -10,7 +10,3 @@ Start Minikube:
 Then run *initInfrastructure.sh* to install all the necessary components.
 
 Finally to start the app, execute the init services script by using *initServices.sh*.
-
-
-
-# Library-Microservice
